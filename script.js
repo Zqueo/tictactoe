@@ -152,7 +152,9 @@ function myfunc() {
 	} 
 
 	// Verificação do final do Jogador X
-	// Verificando se o Jogador X ganhou ou não e depois
+
+		
+	// Verificando se o Jogador O ganhou ou não e depois
 	// desativando todos os outros campos
 	else if ((b1 == 'O' || b1 == 'O') && (b2 == 'O' || 
 		b2 == 'O') && (b3 == 'O' || b3 == 'O')) { 
@@ -275,6 +277,7 @@ function myfunc() {
 	} 
 
 	// Verificação do final do Jogador O
+	
 	// Aqui, verificando sobre Empate 
 	else if ((b1 == 'X' || b1 == 'O') && (b2 == 'X'
 		|| b2 == 'O') && (b3 == 'X' || b3 == 'O') && 
