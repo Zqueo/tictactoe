@@ -107,7 +107,6 @@ p {
 
 /* Game Instruction Text */
 #ins { 
-	font-family: Verdana,Geneva, 
-					Tahoma, sans-serif; 
+	font-family: Verdana, Geneva, Tahoma, sans-serif; 
 	color: dodgerblue; 
 }
